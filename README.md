@@ -25,5 +25,5 @@ This makes computing more accessible for people with limited mobility.
 ##  Installation
 1. Download this project:
    ```bash
-   git clone https://github.com/Asmitha cub/Eye-Mouse.git
+   git clone https://github.com/Asmitha-cub/Eye-Mouse.git
    cd Eye-Mouse
